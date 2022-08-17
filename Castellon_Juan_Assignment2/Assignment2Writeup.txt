@@ -1,0 +1,5 @@
+Programmer Name : Juan Castellon
+Assignment Start : 6:25 PM on 10/03/2018
+Assignment Completion : 7:31 PM on 10/03/2018
+Total Hours for the Assignment : ~1 hour
+Comments : Assignment was very easy once I realized that I could make a variable to index which number was the smallest/biggest. 

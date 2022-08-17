@@ -1,0 +1,5 @@
+Programmer Name: Juan Castellon
+Assignment Start: 12/10/2018 @ 8 PM
+Assignment Completion: 12/11/2018 @ 12:50 PM
+Total Hours for Assignment: ~2 hours
+Comments: Exception Handling was a weird concept for me because I didn't really know how to get the class to shoot the error message if I understand the assignment correctly. Between the book and online resources, I managed to get the program to throw errors upon an invalid input, but I wasn't aware that I had to specify bounds that the variables could range from in order to throw the exception. I don't know why I had the notion that everything was automated. I could have honestly done a better job and made 2 try/catch blocks to catch the two potential illegal arguments (invalid year and month).

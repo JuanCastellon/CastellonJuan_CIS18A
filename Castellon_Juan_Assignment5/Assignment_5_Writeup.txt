@@ -1,0 +1,6 @@
+Programmer Name: Juan Castellon
+Assignment Start: 10/28/2018 @ 2 PM
+Assignment Completion: 10/28/2018 @ 5 PM
+Total Hours for Assignment: ~3 hours
+Comments: It was interesting utilizing the math methods. Implementing functions to calculate the standard deviations was not difficult and in fact made the code look better overall.
+

@@ -1,0 +1,5 @@
+Programmer Name : Juan Castellon
+Assignment Start : 10/20/2018 @ 6:30 PM
+Assignment End : 10/20/2018 @ 8:05 PM
+Total Hours on the Assignment : 1 ½ Hours
+Comments : Surprised at the sudden shift towards a more mathematically conceptual homework problem. It was difficult at first for me since I usually don't use the mod operator, but as soon as I got the gears turning it was a breeze. I just hoped I used the boolean correctly in my program since I don't really know all that much about the coding etiquette like I learned with Professor Lehr in CSC 5.

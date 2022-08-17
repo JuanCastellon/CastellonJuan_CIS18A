@@ -1,0 +1,5 @@
+Programmer Name: Juan Castellon
+Assignment Start: 11/4/2018 @ 2 PM
+Assignment Completion: 11/4/2018 @ 4 PM
+Total Hours for Assignment: ~2 hours
+Comments: I was a little confused at first when NetBeans told me that putting my newly made class in the default package was not recommended, so I had to go look that up online since the book didn't really mention anything about a default package. I learned to keep them together and I thought that was strange because there isn't any issues like that concerning classes in C++.

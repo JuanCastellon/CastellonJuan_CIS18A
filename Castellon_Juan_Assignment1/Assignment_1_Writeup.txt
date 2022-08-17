@@ -1,0 +1,5 @@
+Programmer Name : Juan Castellon
+Assignment Start : 9/17/2018 at 5:30 PM
+Assignment Completion : 9/17/2018 at 8:45
+Total Hours for Assignment : 3 hours
+Comments : So far, everything seems really clunky and weird since this is my first time coding in Java. I feel like just printing things is complicated and the whole printf thing seems really foreign to me.
